@@ -5,11 +5,11 @@
 ## 使用方法
 
 ### 分かる人向け
-- ブックマークレットなので、NicoHistoryCounterBookmarklet.min.jsの内容をブックマークレットとして登録して、[ニコニコ動画の視聴履歴ページ](https://www.nicovideo.jp/my/history)で実行してください。
+- ブックマークレットなので、[NicoHistoryCounterBookmarklet.min.js](https://github.com/HaruInoue/nico-history-counter-bookmarklet/blob/main/NicoHistoryCounterBookmarklet.min.js)の内容をブックマークレットとして登録して、[ニコニコ動画の視聴履歴ページ](https://www.nicovideo.jp/my/history)で実行してください。
 
 ### 分からない人向け
 
-1. 「ブックマークレット」などと検索して、コードをブックマークとして追加してください。
+1. 「ブックマークレット」などと検索して、[NicoHistoryCounterBookmarklet.min.js](https://github.com/HaruInoue/nico-history-counter-bookmarklet/blob/main/NicoHistoryCounterBookmarklet.min.js)のコードをブックマークとして追加してください。
   参考：[ブックマークレットの登録方法 #効率化 - Qiita](https://qiita.com/aqril_1132/items/b5f9040ccb8cbc705d04)
   名前は「ニコニコ視聴履歴集計」などとしてURL部分にコードをコピペします。
 2. [ニコニコ動画の視聴履歴ページ](https://www.nicovideo.jp/my/history)を開いて、登録したブックマークをクリックしてください。
